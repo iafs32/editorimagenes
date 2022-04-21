@@ -1,0 +1,18 @@
+C:\Users\Dayana Franco\Documents\ITESI\Segundo Semestre\POO\Tercera Captura\Editor Imágenes\Editor Imágenes\bin\Debug\Editor Imágenes.exe.config
+C:\Users\Dayana Franco\Documents\ITESI\Segundo Semestre\POO\Tercera Captura\Editor Imágenes\Editor Imágenes\bin\Debug\Editor Imágenes.exe
+C:\Users\Dayana Franco\Documents\ITESI\Segundo Semestre\POO\Tercera Captura\Editor Imágenes\Editor Imágenes\bin\Debug\Editor Imágenes.pdb
+C:\Users\Dayana Franco\Documents\ITESI\Segundo Semestre\POO\Tercera Captura\Editor Imágenes\Editor Imágenes\bin\Debug\AForge.dll
+C:\Users\Dayana Franco\Documents\ITESI\Segundo Semestre\POO\Tercera Captura\Editor Imágenes\Editor Imágenes\bin\Debug\AForge.Imaging.dll
+C:\Users\Dayana Franco\Documents\ITESI\Segundo Semestre\POO\Tercera Captura\Editor Imágenes\Editor Imágenes\bin\Debug\AForge.Math.dll
+C:\Users\Dayana Franco\Documents\ITESI\Segundo Semestre\POO\Tercera Captura\Editor Imágenes\Editor Imágenes\bin\Debug\AForge.xml
+C:\Users\Dayana Franco\Documents\ITESI\Segundo Semestre\POO\Tercera Captura\Editor Imágenes\Editor Imágenes\bin\Debug\AForge.Imaging.xml
+C:\Users\Dayana Franco\Documents\ITESI\Segundo Semestre\POO\Tercera Captura\Editor Imágenes\Editor Imágenes\bin\Debug\AForge.Math.xml
+C:\Users\Dayana Franco\Documents\ITESI\Segundo Semestre\POO\Tercera Captura\Editor Imágenes\Editor Imágenes\obj\Debug\Editor Imágenes.csproj.AssemblyReference.cache
+C:\Users\Dayana Franco\Documents\ITESI\Segundo Semestre\POO\Tercera Captura\Editor Imágenes\Editor Imágenes\obj\Debug\Editor Imágenes.csproj.SuggestedBindingRedirects.cache
+C:\Users\Dayana Franco\Documents\ITESI\Segundo Semestre\POO\Tercera Captura\Editor Imágenes\Editor Imágenes\obj\Debug\Editor_Imágenes.frmEditarImágenes.resources
+C:\Users\Dayana Franco\Documents\ITESI\Segundo Semestre\POO\Tercera Captura\Editor Imágenes\Editor Imágenes\obj\Debug\Editor_Imágenes.Properties.Resources.resources
+C:\Users\Dayana Franco\Documents\ITESI\Segundo Semestre\POO\Tercera Captura\Editor Imágenes\Editor Imágenes\obj\Debug\Editor Imágenes.csproj.GenerateResource.cache
+C:\Users\Dayana Franco\Documents\ITESI\Segundo Semestre\POO\Tercera Captura\Editor Imágenes\Editor Imágenes\obj\Debug\Editor Imágenes.csproj.CoreCompileInputs.cache
+C:\Users\Dayana Franco\Documents\ITESI\Segundo Semestre\POO\Tercera Captura\Editor Imágenes\Editor Imágenes\obj\Debug\Editor Imágenes.csproj.CopyComplete
+C:\Users\Dayana Franco\Documents\ITESI\Segundo Semestre\POO\Tercera Captura\Editor Imágenes\Editor Imágenes\obj\Debug\Editor Imágenes.exe
+C:\Users\Dayana Franco\Documents\ITESI\Segundo Semestre\POO\Tercera Captura\Editor Imágenes\Editor Imágenes\obj\Debug\Editor Imágenes.pdb
